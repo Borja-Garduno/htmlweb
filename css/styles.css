@@ -1,0 +1,170 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* ************************************************** */
+@font-face {
+    font-family: EHUSans-Regular;
+    font-style: normal;
+    src: url("EHUSans-Regular.otf");
+}
+
+@font-face {
+    font-family: EHUSans-Regular;
+    font-weight: bold;
+    src: url("EHUSans-Bold.otf");
+}
+
+@font-face {
+    font-family: EHUSans-Regular;
+    font-style: italic;
+    src: url("EHUSans-Italic.otf");
+}
+
+*{
+    font-align: 14pt;
+    font-family: Calibri, Arial, Verdana;
+}
+
+h1,h2,h3,h4{
+    font-family: Arial, Verdana;
+    color: brown;
+}
+
+h1{
+    font-size: 150%;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 120%;
+    margin-bottom: 10px;
+    font-family: EHUSans-Regular;
+}
+
+h3{
+    font-size: 110%;
+}
+
+h4{
+    font-size: 100%;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 30px;
+    width: 100%;
+}
+
+#wrapper{
+    position: relative;
+    top: 30px;
+}
+
+header{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+body{
+    max-width: 1024px;
+    margin: 0 auto;
+    background: #d0d0d0;
+}
+
+#wrapper > header{
+    width: 100px;
+    margin: 0 auto;
+}
+
+nav ul{
+    background-color: #a5a5a5;
+}
+
+nav ul li{
+    padding: 10px;
+    float: left;
+}
+
+nav ul li:hover{
+    background-color: gray;
+}
+
+a{
+    color: brown;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+
+img.secciones{
+    float: left;
+    margin-right: 10px;
+}
+
+iframe{
+    float: left;
+    margin-right: 10px;
+}
+
+.arriba{
+    float: right;
+}
+
+section{
+    margin-top: 50px;
+}
+
+.clearfix:before, .clearfix:after { content: ""; display: table;}
+.clearfix:after { clear:both;}
