@@ -166,5 +166,9 @@ section{
     margin-top: 50px;
 }
 
+footer{
+    margin-top: 30px;
+}
+
 .clearfix:before, .clearfix:after { content: ""; display: table;}
 .clearfix:after { clear:both;}
