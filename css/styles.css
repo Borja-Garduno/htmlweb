@@ -96,14 +96,6 @@ h4{
     font-size: 100%;
 }
 
-nav{
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 30px;
-    width: 100%;
-}
-
 #wrapper{
     position: relative;
     top: 30px;
@@ -125,6 +117,14 @@ body{
     margin: 0 auto;
 }
 
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 30px;
+    width: 100%;
+}
+
 nav ul{
     background-color: #a5a5a5;
 }
@@ -136,6 +136,15 @@ nav ul li{
 
 nav ul li:hover{
     background-color: gray;
+}
+
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear:both;
 }
 
 a{
@@ -151,6 +160,10 @@ a:hover{
 img.secciones{
     float: left;
     margin-right: 10px;
+    /*
+    border: 1px;
+    border-style: solid;
+    */
 }
 
 iframe{
@@ -170,5 +183,142 @@ footer{
     margin-top: 30px;
 }
 
-.clearfix:before, .clearfix:after { content: ""; display: table;}
-.clearfix:after { clear:both;}
+/* *********** SPRITES MIO *********** */
+
+ul.spritesmios li a {
+    background: url(../images/sprites2.png) #f6e2b9 no-repeat 0 0;
+    background-color: #d0d0d0;
+    display: block;
+    height: 76px;
+    width: 76px;
+    float: right;
+    /*background-size: auto 96px;*/
+}
+
+ul.spritesmios li a.twitter {
+    background-position: 0 0;
+}
+
+ul.spritesmios li a.facebook {
+    background-position: -76px -0px;
+}
+
+ul.spritesmios li a.twitter:hover,
+#sidebar ul.spritesmios li a.twitter:hover {
+    background-position: 0px -154px;
+}
+
+ul.spritesmios li a.facebook:hover,
+#sidebar ul.spritesmios li a.facebook:hover {
+    background-position: -76px -231px;
+}
+
+/* *********** SPRITES GOOGLE *********** */
+
+ul.spicesocialwidget {
+    float: right;
+}
+ul.spicesocialwidget li {
+    float: left;
+    padding: 0px;
+    list-style: none outside none;
+    border: none;
+}
+ul.spicesocialwidget li a {
+    background-color: transparent;
+    background-image: url('../images/spice-social-gadget-sprite.png');
+    background-repeat: no-repeat;
+    background-size: auto 96px;
+    border: 0 none;
+    color: white;
+    direction: ltr;
+    display: block;
+    height: 32px;
+    overflow: hidden;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -999em;
+    transition: all 0.2s ease 0s;
+    width: 32px
+}
+.ie7 ul.spicesocialwidget li a,
+.ie8 ul.spicesocialwidget li a {
+    background-image: url('../images/spice-social-gadget-sprite.png')
+}
+ul.spicesocialwidget li.facebook a {
+    background-position: 0 0
+}
+ul.spicesocialwidget li.flickr a {
+    background-position: -32px 0
+}
+ul.spicesocialwidget li.dribbble a {
+    background-position: -64px 0
+}
+ul.spicesocialwidget li.googleplus a {
+    background-position: -96px 0
+}
+ul.spicesocialwidget li.linkedin a {
+    background-position: -128px 0
+}
+ul.spicesocialwidget li.pinterest a {
+    background-position: -160px 0
+}
+ul.spicesocialwidget li.rss a {
+    background-position: -192px 0
+}
+ul.spicesocialwidget li.skype a {
+    background-position: -224px 0
+}
+ul.spicesocialwidget li.twitter a {
+    background-position: -256px 0
+}
+ul.spicesocialwidget li.vimeo a {
+    background-position: -288px 0
+}
+ul.spicesocialwidget li.youtube a {
+    background-position: -320px 0
+}
+ul.spicesocialwidget li.facebook a:hover,
+#sidebar ul.spicesocialwidget li.facebook a:hover {
+    background-position: 0 -32px
+}
+ul.spicesocialwidget li.flickr a:hover,
+#sidebar ul.spicesocialwidget li.flickr a:hover {
+    background-position: -32px -32px
+}
+ul.spicesocialwidget li.dribbble a:hover,
+#sidebar ul.spicesocialwidget li.dribbble a:hover {
+    background-position: -64px -32px
+}
+ul.spicesocialwidget li.googleplus a:hover,
+#sidebar ul.spicesocialwidget li.googleplus a:hover {
+    background-position: -96px -32px
+}
+ul.spicesocialwidget li.linkedin a:hover,
+#sidebar ul.spicesocialwidget li.linkedin a:hover {
+    background-position: -128px -32px
+}
+ul.spicesocialwidget li.pinterest a:hover,
+#sidebar ul.spicesocialwidget li.pinterest a:hover {
+    background-position: -160px -32px
+}
+ul.spicesocialwidget li.rss a:hover,
+#sidebar ul.spicesocialwidget li.rss a:hover {
+    background-position: -192px -32px
+}
+ul.spicesocialwidget li.skype a:hover,
+#sidebar ul.spicesocialwidget li.skype a:hover {
+    background-position: -224px -32px
+}
+ul.spicesocialwidget li.twitter a:hover,
+#sidebar ul.spicesocialwidget li.twitter a:hover {
+    background-position: -256px -32px
+}
+ul.spicesocialwidget li.vimeo a:hover,
+#sidebar ul.spicesocialwidget li.vimeo a:hover {
+    background-position: -288px -32px
+}
+ul.spicesocialwidget li.youtube a:hover,
+#sidebar ul.spicesocialwidget li.youtube a:hover {
+    background-position: -320px -32px
+}
