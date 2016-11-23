@@ -1,103 +1,70 @@
-<!DOCTYPE html>
-<html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="author" content="Borja Garduño">
-        <meta name="description" content="Primera pagina HTML de prueba">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-        <title>Inicio</title>
-
-        <link rel="stylesheet" href="css/styles.css" type="text/css" />
-
-        <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-        <link rel="manifest" href="manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-        <meta name="theme-color" content="#ffffff">
-    </head>
-
-    <body>
-        <section id="arriba">
-            <h2>Bienvenido a mi web</h2>
-
-            <div class="">
-                <svg
-                        xmlns:dc="http://purl.org/dc/elements/1.1/"
-                        xmlns:cc="http://creativecommons.org/ns#"
-                        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-                        xmlns:svg="http://www.w3.org/2000/svg"
-                        xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink"
-                        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-                        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-                        id="svg2816"
-                        version="1.1"
-                        inkscape:version="0.47 r22583"
-                        width="50"
-                        height="50"
-                        sodipodi:docname="awesome_heug_display.png">
-                    <sodipodi:namedview
-                            pagecolor="#ffffff"
-                            bordercolor="#666666"
-                            borderopacity="1"
-                            objecttolerance="10"
-                            gridtolerance="10"
-                            guidetolerance="10"
-                            inkscape:pageopacity="0"
-                            inkscape:pageshadow="2"
-                            inkscape:window-width="1280"
-                            inkscape:window-height="670"
-                            id="namedview2818"
-                            showgrid="false"
-                            inkscape:zoom="0.36875"
-                            inkscape:cx="320"
-                            inkscape:cy="320"
-                            inkscape:window-x="-4"
-                            inkscape:window-y="-4"
-                            inkscape:window-maximized="1"
-                            inkscape:current-layer="svg2816" />
-                    <metadata
-                            id="metadata2822">
-                        <rdf:RDF>
-                            <cc:Work
-                                    rdf:about="">
-                                <dc:format>image/svg+xml</dc:format>
-                                <dc:type
-                                        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                                <dc:title></dc:title>
-                            </cc:Work>
-                        </rdf:RDF>
-                    </metadata>
-                    <defs
-                            id="defs2820">
-                        <inkscape:perspective
-                                id="perspective2824"
-                                inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-                                inkscape:vp_z="1 : 0.5 : 1"
-                                inkscape:vp_y="0 : 1000 : 0"
-                                inkscape:vp_x="0 : 0.5 : 1"
-                                sodipodi:type="inkscape:persp3d" />
-                    </defs>
-                    <image
-                            y="0"
-                            x="0"
-                            id="image2826"
-                            height="50"
-                            width="50"
-                            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKACAYAAAAMzckjAAAgAElEQVR4nOy9eZhkR3Xg+4vMrH3p
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="640"
+   height="640"
+   sodipodi:docname="awesome_heug_display.png">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="670"
+     id="namedview2818"
+     showgrid="false"
+     inkscape:zoom="0.36875"
+     inkscape:cx="320"
+     inkscape:cy="320"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2816" />
+  <metadata
+     id="metadata2822">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2820">
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <image
+     y="0"
+     x="0"
+     id="image2826"
+     height="640"
+     width="640"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKACAYAAAAMzckjAAAgAElEQVR4nOy9eZhkR3Xg+4vMrH3p
 ql6rV7Va6lZLaonWviKBEEJCggEEAq+AzGZjsdmGYbdnbI+x8die9/kzmM8LfvPs8QBjHs/PZsBg
 bHggNu07QrtaUq/Ve3V1VcX7IyLuPTcy7s2b1dWVmVVxpOy898SJ342szIg498RyFVABZsiK01Xs
 +YzQI9JC+fD0fh6fV3Qcul6zjGZ5Icm7Zqt5Fe/c/55ONC3yTj7PpRfVqbL1s5N4AN32uGZfFatD
@@ -2357,325 +2324,4 @@ y3lYKj4VVOfXKZ8Tl+ZbPD4zzY2vFPiNzxQ7IKJfKqdsjjwOUDwK2ToiOULxuWxArI5ihxrEoJYa
 l30cotB/ToUYYmJk+TykKJ4uJSH9Tkn/VaNs7d5/XuC361tJfE5c830tNJ/m8yXf/w9xsvyejaf5
 wwAAAABJRU5ErkJggg==
 " />
-                </svg>
-            </div>
-        </section>
-
-        <div class="wrapper">
-            <header>
-                <h1>
-                    <img src="images/favicon/original-32x32.png" alt="logo" />
-                    Biblioteca Nispero
-                    <img src="images/favicon/original-32x32.png" alt="logo" />
-                </h1>
-
-                <svg height="50px" width="400px">
-                    <style>
-                        .fuenteTexto{
-                            font-size: 300%;
-                        }
-                    </style>
-
-                    <text x="0" y="40" class="fuenteTexto" fill="black">Biblioteca Nispero</text>
-
-                    <circle id="orange-circle" r="5" cx="32" cy="10" fill="orange" />
-
-                    <animate
-                            id="a1"
-                            xlink:href="#orange-circle"
-                            attributeName="cx"
-                            from="32"
-                            to="79"
-                            dur="1s"
-                            begin="click"
-                            fill="freeze" />
-
-                    <animate
-                            id="a2"
-                            xlink:href="#orange-circle"
-                            attributeName="cx"
-                            from="79"
-                            to="240"
-                            dur="2s"
-                            begin="a1.end+1s"
-                            fill="freeze" />
-
-                    <animate
-                            id="a3"
-                            xlink:href="#orange-circle"
-                            attributeName="cx"
-                            from="240"
-                            to="79"
-                            dur="2s"
-                            begin="a2.end+1s"
-                            fill="freeze" />
-
-                    <animate
-                            id="a4"
-                            xlink:href="#orange-circle"
-                            attributeName="cx"
-                            from="79"
-                            to="32"
-                            dur="1s"
-                            begin="a3.end+1s"
-                            fill="freeze" />
-                </svg>
-            </header>
-        </div>
-        <nav>
-            <ul class="clearfix">
-                <li><a href="#presentacion">PRESENTACION</a></li>
-                <li><a href="#productos">PRODUCTOS</a></li>
-                <li><a href="#acercade">ACERCA DE</a></li>
-                <li><a href="#localizacion">LOCALIZACION</a></li>
-                <li><a href="#contacto">CONTACTO</a></li>
-
-                <ul class="spicesocialwidget">
-                    <li class="facebook">
-                        <a rel="nofollow" href="http://www.facebook.com/" target="_blank" title="facebook"></a>
-                    </li>
-
-                    <li class="twitter">
-                        <a rel="nofollow" href="http://twitter.com/" target="_blank" title="twitter"></a>
-                    </li>
-
-                    <li class="youtube">
-                        <a rel="nofollow" href="http://www.youtube.com/" target="_blank" title="youtube"></a>
-                    </li>
-
-                    <li class="rss">
-                        <a rel="nofollow" href="http://feedburner.com/" target="_blank" title="rss"></a>
-                    </li>
-
-                    <!--
-                    <li class="googleplus">
-                        <a rel="nofollow" href="https://plus.google.com/" target="_blank" title="googleplus"></a>
-                    </li>
-
-                    <li class="pinterest">
-                        <a rel="nofollow" href="http://pinterest.com/" target="_blank" title="pinterest"></a>
-                    </li>
-
-                    <li class="skype">
-                        <a rel="nofollow" href="http://www.skype.com/" target="_blank" title="Skype"></a>
-                    </li>
-
-                    <li class="vimeo">
-                        <a rel="nofollow" href="http://www.vimeo.com/" target="_blank" title="vimeo"></a>
-                    </li>
-
-                    <li class="dribbble">
-                        <a rel="nofollow" href="http://www.dribbble.com/" target="_blank" title="dribble"></a>
-                    </li>
-
-                    <li class="flickr">
-                        <a rel="nofollow" href="http://www.flickr.com/" target="_blank" title="flickr"></a>
-                    </li>
-
-                    <li class="linkedin">
-                        <a rel="nofollow" href="http://www.linkedin.com/" target="_blank" title="linkedin"></a>
-                    </li>
-
-                    -->
-                </ul>
-            </ul>
-        </nav>
-
-        <main>
-            <!--
-            <div id="slider" role="slider">
-                <figure>
-                    <a href="#" target="_blank">
-                        <img src="images/slider/1.jpg" />
-                    </a>
-
-                    <a href="#" target="_blank">
-                        <img src="images/slider/2.jpg" />
-                    </a>
-
-                    <a href="#" target="_blank">
-                        <img src="images/slider/3.jpg" />
-                    </a>
-
-                    <a href="#" target="_blank">
-                        <img src="images/slider/4.jpg" />
-                    </a>
-
-                    <a href="#" target="_blank">
-                        <img src="images/slider/5.jpg" />
-                    </a>
-
-                    <a href="#" target="_blank">
-                        <img src="images/slider/1.jpg" />
-                    </a>
-                </figure>
-            </div>
-            -->
-
-            <div id="slider" role="slider">
-                <!--
-                rel="follow" --
-                rel="no-follow"  --
-                -->
-                <figure>
-                    <!--
-                    <a href="favicon-32x32.png" role="no-follow" target="_blank" download >
-                    -->
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/ibiza.jpg">
-                    <!--</a>-->
-                    <!--  <a href="favicon-32x32.png" role="no-follow" target="_blank" download >-->
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/austin-fireworks.jpg">
-                    <!--
-                    </a>
-                    -->
-                    <a href="favicon-32x32.png" role="no-follow" target="_blank" download >
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/taj-mahal_copy.jpg">
-                    </a>
-                    </a>
-                    <a href="favicon-32x32.png" role="no-follow" target="_blank" download >
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/ankor-wat.jpg">
-                    </a>
-
-                    <a href="favicon-32x32.png" role="no-follow" target="_blank" download >
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/ibiza.jpg">
-                    </a>
-                </figure>
-            </div>
-
-            <!--
-            <div class="slides-frame">
-                <div class="slides">
-                    <div class="slide-1 slide">Game of Thrones</div>
-                    <div class="slide-2 slide">Daenery Targaryen and her horse</div>
-                    <div class="slide-3 slide">Winer is comming, Stark</div>
-                    <div class="slide-4 slide">The Iron Throne</div>
-                </div>
-            </div>
-            -->
-
-            <!--
-            <div class="slides-frame">
-                <div class="slides">
-                    <img src="images/slider2/1.jpg">
-                    <img src="images/slider2/2.jpg">
-                    <img src="images/slider2/3.jpg">
-                    <img src="images/slider2/4.jpg">
-                </div>
-            </div>
-            -->
-
-            <section id="presentacion">
-                <h2>Presentacion</h2>
-
-                <img src="images/lorem.jpg" width="350" class="secciones" alt="presentacion" />
-
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec gravida diam. Morbi euismod leo risus, vitae faucibus mi semper ut. Nullam dignissim congue imperdiet. Nullam egestas diam sit amet scelerisque faucibus. Nunc sodales urna id tempus ullamcorper. Etiam eu justo et ligula vulputate posuere vitae at dolor. Pellentesque pellentesque, urna at fermentum tempus, nulla odio lacinia leo, sit amet fringilla leo tortor vitae leo. Donec libero diam, scelerisque vitae tincidunt vitae, cursus at justo. Pellentesque eu ex consectetur, consequat erat quis, tempus metus. Praesent id felis sit amet nisl vestibulum iaculis. Phasellus euismod urna eros, eget consequat turpis sodales a.
-
-                    Suspendisse varius velit ut ligula mattis, eu varius sapien ullamcorper. In nec sagittis sapien. Morbi id mauris ipsum. Aliquam finibus ultricies ullamcorper. Vivamus elementum metus in nibh hendrerit commodo. In tincidunt semper accumsan. Proin nec varius libero, vel maximus neque. Aliquam erat volutpat. Pellentesque at dolor eget mi finibus ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur porta urna ut mauris dapibus, ut consectetur massa placerat. Nullam ut tellus dapibus, interdum nunc vel, consectetur nisl.
-
-                    Pellentesque dignissim orci sed scelerisque mollis. In hac habitasse platea dictumst. Donec id tellus feugiat, finibus libero vitae, eleifend purus. Aliquam molestie pellentesque arcu, a commodo mauris. Curabitur vitae felis vel risus vulputate fermentum. Vestibulum iaculis libero eu orci imperdiet euismod dignissim at quam. Maecenas molestie placerat consequat. Duis sed leo consequat, auctor dui quis, placerat neque. In eleifend, mi vel eleifend malesuada, est ipsum sagittis sem, nec maximus eros metus at nibh. Etiam et blandit elit. Fusce scelerisque velit ut turpis consectetur, quis consectetur justo ultricies. Praesent metus est, lacinia ut tristique id, porta varius est. Quisque sit amet massa a arcu porttitor mollis. Integer et libero sit amet urna congue tempus. Donec et arcu elit.
-
-                    Aenean arcu massa, posuere nec tellus eget, scelerisque gravida tellus. Sed elementum arcu ac ipsum luctus eleifend. Aliquam accumsan elit vel nisl egestas, vel fringilla nisl facilisis. In quis ultrices diam. Integer tortor velit, efficitur vel lectus ac, ultricies sollicitudin ante. Donec id pretium lorem. Proin at commodo tortor, non venenatis dolor. Morbi aliquam sagittis volutpat. Nulla hendrerit lorem sed metus efficitur, vel elementum elit sodales. Maecenas vehicula, lectus vitae venenatis hendrerit, tellus eros fringilla massa, eu condimentum mauris enim et nibh.
-
-                    Mauris purus lorem, ornare eget nunc ultrices, ultricies facilisis est. Nulla euismod finibus cursus. Mauris et ipsum quis velit dictum ultrices eu non ipsum. In ultrices fringilla dictum. Curabitur eget volutpat elit, porttitor pharetra nisi. Sed finibus magna nec mauris maximus, in ornare elit luctus. Aenean ut ipsum ac augue dignissim maximus. Donec felis dolor, porta id mauris quis, ultricies blandit turpis. Ut vitae mauris euismod, auctor mauris luctus, ultrices leo. Fusce non ex in libero mattis semper. Integer pharetra at urna pellentesque volutpat. Curabitur in posuere nisl. Sed varius ut magna vel congue. In hac habitasse platea dictumst. Suspendisse pretium pulvinar orci, a ultrices purus porttitor ac.
-                </p>
-            </section>
-
-            <section id="productos">
-                <h2>Productos</h2>
-
-                <img src="images/productos.png" width="350" class="secciones" alt="productos" />
-
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec gravida diam. Morbi euismod leo risus, vitae faucibus mi semper ut. Nullam dignissim congue imperdiet. Nullam egestas diam sit amet scelerisque faucibus. Nunc sodales urna id tempus ullamcorper. Etiam eu justo et ligula vulputate posuere vitae at dolor. Pellentesque pellentesque, urna at fermentum tempus, nulla odio lacinia leo, sit amet fringilla leo tortor vitae leo. Donec libero diam, scelerisque vitae tincidunt vitae, cursus at justo. Pellentesque eu ex consectetur, consequat erat quis, tempus metus. Praesent id felis sit amet nisl vestibulum iaculis. Phasellus euismod urna eros, eget consequat turpis sodales a.
-
-                    Suspendisse varius velit ut ligula mattis, eu varius sapien ullamcorper. In nec sagittis sapien. Morbi id mauris ipsum. Aliquam finibus ultricies ullamcorper. Vivamus elementum metus in nibh hendrerit commodo. In tincidunt semper accumsan. Proin nec varius libero, vel maximus neque. Aliquam erat volutpat. Pellentesque at dolor eget mi finibus ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur porta urna ut mauris dapibus, ut consectetur massa placerat. Nullam ut tellus dapibus, interdum nunc vel, consectetur nisl.
-
-                    Pellentesque dignissim orci sed scelerisque mollis. In hac habitasse platea dictumst. Donec id tellus feugiat, finibus libero vitae, eleifend purus. Aliquam molestie pellentesque arcu, a commodo mauris. Curabitur vitae felis vel risus vulputate fermentum. Vestibulum iaculis libero eu orci imperdiet euismod dignissim at quam. Maecenas molestie placerat consequat. Duis sed leo consequat, auctor dui quis, placerat neque. In eleifend, mi vel eleifend malesuada, est ipsum sagittis sem, nec maximus eros metus at nibh. Etiam et blandit elit. Fusce scelerisque velit ut turpis consectetur, quis consectetur justo ultricies. Praesent metus est, lacinia ut tristique id, porta varius est. Quisque sit amet massa a arcu porttitor mollis. Integer et libero sit amet urna congue tempus. Donec et arcu elit.
-
-                    Aenean arcu massa, posuere nec tellus eget, scelerisque gravida tellus. Sed elementum arcu ac ipsum luctus eleifend. Aliquam accumsan elit vel nisl egestas, vel fringilla nisl facilisis. In quis ultrices diam. Integer tortor velit, efficitur vel lectus ac, ultricies sollicitudin ante. Donec id pretium lorem. Proin at commodo tortor, non venenatis dolor. Morbi aliquam sagittis volutpat. Nulla hendrerit lorem sed metus efficitur, vel elementum elit sodales. Maecenas vehicula, lectus vitae venenatis hendrerit, tellus eros fringilla massa, eu condimentum mauris enim et nibh.
-
-                    Mauris purus lorem, ornare eget nunc ultrices, ultricies facilisis est. Nulla euismod finibus cursus. Mauris et ipsum quis velit dictum ultrices eu non ipsum. In ultrices fringilla dictum. Curabitur eget volutpat elit, porttitor pharetra nisi. Sed finibus magna nec mauris maximus, in ornare elit luctus. Aenean ut ipsum ac augue dignissim maximus. Donec felis dolor, porta id mauris quis, ultricies blandit turpis. Ut vitae mauris euismod, auctor mauris luctus, ultrices leo. Fusce non ex in libero mattis semper. Integer pharetra at urna pellentesque volutpat. Curabitur in posuere nisl. Sed varius ut magna vel congue. In hac habitasse platea dictumst. Suspendisse pretium pulvinar orci, a ultrices purus porttitor ac.
-                </p>
-            </section>
-
-            <section id="acercade">
-                <h2>Acerca de</h2>
-
-                <img src="images/about.png" width="350" class="secciones" alt="acercade" />
-
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec gravida diam. Morbi euismod leo risus, vitae faucibus mi semper ut. Nullam dignissim congue imperdiet. Nullam egestas diam sit amet scelerisque faucibus. Nunc sodales urna id tempus ullamcorper. Etiam eu justo et ligula vulputate posuere vitae at dolor. Pellentesque pellentesque, urna at fermentum tempus, nulla odio lacinia leo, sit amet fringilla leo tortor vitae leo. Donec libero diam, scelerisque vitae tincidunt vitae, cursus at justo. Pellentesque eu ex consectetur, consequat erat quis, tempus metus. Praesent id felis sit amet nisl vestibulum iaculis. Phasellus euismod urna eros, eget consequat turpis sodales a.
-
-                    Suspendisse varius velit ut ligula mattis, eu varius sapien ullamcorper. In nec sagittis sapien. Morbi id mauris ipsum. Aliquam finibus ultricies ullamcorper. Vivamus elementum metus in nibh hendrerit commodo. In tincidunt semper accumsan. Proin nec varius libero, vel maximus neque. Aliquam erat volutpat. Pellentesque at dolor eget mi finibus ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur porta urna ut mauris dapibus, ut consectetur massa placerat. Nullam ut tellus dapibus, interdum nunc vel, consectetur nisl.
-
-                    Pellentesque dignissim orci sed scelerisque mollis. In hac habitasse platea dictumst. Donec id tellus feugiat, finibus libero vitae, eleifend purus. Aliquam molestie pellentesque arcu, a commodo mauris. Curabitur vitae felis vel risus vulputate fermentum. Vestibulum iaculis libero eu orci imperdiet euismod dignissim at quam. Maecenas molestie placerat consequat. Duis sed leo consequat, auctor dui quis, placerat neque. In eleifend, mi vel eleifend malesuada, est ipsum sagittis sem, nec maximus eros metus at nibh. Etiam et blandit elit. Fusce scelerisque velit ut turpis consectetur, quis consectetur justo ultricies. Praesent metus est, lacinia ut tristique id, porta varius est. Quisque sit amet massa a arcu porttitor mollis. Integer et libero sit amet urna congue tempus. Donec et arcu elit.
-
-                    Aenean arcu massa, posuere nec tellus eget, scelerisque gravida tellus. Sed elementum arcu ac ipsum luctus eleifend. Aliquam accumsan elit vel nisl egestas, vel fringilla nisl facilisis. In quis ultrices diam. Integer tortor velit, efficitur vel lectus ac, ultricies sollicitudin ante. Donec id pretium lorem. Proin at commodo tortor, non venenatis dolor. Morbi aliquam sagittis volutpat. Nulla hendrerit lorem sed metus efficitur, vel elementum elit sodales. Maecenas vehicula, lectus vitae venenatis hendrerit, tellus eros fringilla massa, eu condimentum mauris enim et nibh.
-
-                    Mauris purus lorem, ornare eget nunc ultrices, ultricies facilisis est. Nulla euismod finibus cursus. Mauris et ipsum quis velit dictum ultrices eu non ipsum. In ultrices fringilla dictum. Curabitur eget volutpat elit, porttitor pharetra nisi. Sed finibus magna nec mauris maximus, in ornare elit luctus. Aenean ut ipsum ac augue dignissim maximus. Donec felis dolor, porta id mauris quis, ultricies blandit turpis. Ut vitae mauris euismod, auctor mauris luctus, ultrices leo. Fusce non ex in libero mattis semper. Integer pharetra at urna pellentesque volutpat. Curabitur in posuere nisl. Sed varius ut magna vel congue. In hac habitasse platea dictumst. Suspendisse pretium pulvinar orci, a ultrices purus porttitor ac.
-                </p>
-            </section>
-
-            <section id="localizacion">
-                <h2>Localizacion</h2>
-
-                <!--<img src="images/localizacion.jpg" width="350" />-->
-
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.758902895053!2d-2.9145471689112403!3d43.256474502855376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4e4fb461761637%3A0xc25c9001411726c2!2sIpartek+Servicios+Inform%C3%A1ticos!5e0!3m2!1ses!2ses!4v1479400439321" width="500" height="450" style="border:0" allowfullscreen></iframe>
-
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec gravida diam. Morbi euismod leo risus, vitae faucibus mi semper ut. Nullam dignissim congue imperdiet. Nullam egestas diam sit amet scelerisque faucibus. Nunc sodales urna id tempus ullamcorper. Etiam eu justo et ligula vulputate posuere vitae at dolor. Pellentesque pellentesque, urna at fermentum tempus, nulla odio lacinia leo, sit amet fringilla leo tortor vitae leo. Donec libero diam, scelerisque vitae tincidunt vitae, cursus at justo. Pellentesque eu ex consectetur, consequat erat quis, tempus metus. Praesent id felis sit amet nisl vestibulum iaculis. Phasellus euismod urna eros, eget consequat turpis sodales a.
-
-                    Suspendisse varius velit ut ligula mattis, eu varius sapien ullamcorper. In nec sagittis sapien. Morbi id mauris ipsum. Aliquam finibus ultricies ullamcorper. Vivamus elementum metus in nibh hendrerit commodo. In tincidunt semper accumsan. Proin nec varius libero, vel maximus neque. Aliquam erat volutpat. Pellentesque at dolor eget mi finibus ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur porta urna ut mauris dapibus, ut consectetur massa placerat. Nullam ut tellus dapibus, interdum nunc vel, consectetur nisl.
-
-                    Pellentesque dignissim orci sed scelerisque mollis. In hac habitasse platea dictumst. Donec id tellus feugiat, finibus libero vitae, eleifend purus. Aliquam molestie pellentesque arcu, a commodo mauris. Curabitur vitae felis vel risus vulputate fermentum. Vestibulum iaculis libero eu orci imperdiet euismod dignissim at quam. Maecenas molestie placerat consequat. Duis sed leo consequat, auctor dui quis, placerat neque. In eleifend, mi vel eleifend malesuada, est ipsum sagittis sem, nec maximus eros metus at nibh. Etiam et blandit elit. Fusce scelerisque velit ut turpis consectetur, quis consectetur justo ultricies. Praesent metus est, lacinia ut tristique id, porta varius est. Quisque sit amet massa a arcu porttitor mollis. Integer et libero sit amet urna congue tempus. Donec et arcu elit.
-
-                    Aenean arcu massa, posuere nec tellus eget, scelerisque gravida tellus. Sed elementum arcu ac ipsum luctus eleifend. Aliquam accumsan elit vel nisl egestas, vel fringilla nisl facilisis. In quis ultrices diam. Integer tortor velit, efficitur vel lectus ac, ultricies sollicitudin ante. Donec id pretium lorem. Proin at commodo tortor, non venenatis dolor. Morbi aliquam sagittis volutpat. Nulla hendrerit lorem sed metus efficitur, vel elementum elit sodales. Maecenas vehicula, lectus vitae venenatis hendrerit, tellus eros fringilla massa, eu condimentum mauris enim et nibh.
-
-                    Mauris purus lorem, ornare eget nunc ultrices, ultricies facilisis est. Nulla euismod finibus cursus. Mauris et ipsum quis velit dictum ultrices eu non ipsum. In ultrices fringilla dictum. Curabitur eget volutpat elit, porttitor pharetra nisi. Sed finibus magna nec mauris maximus, in ornare elit luctus. Aenean ut ipsum ac augue dignissim maximus. Donec felis dolor, porta id mauris quis, ultricies blandit turpis. Ut vitae mauris euismod, auctor mauris luctus, ultrices leo. Fusce non ex in libero mattis semper. Integer pharetra at urna pellentesque volutpat. Curabitur in posuere nisl. Sed varius ut magna vel congue. In hac habitasse platea dictumst. Suspendisse pretium pulvinar orci, a ultrices purus porttitor ac.
-                </p>
-            </section>
-
-            <section id="contacto">
-                <h2>Contacto</h2>
-
-                <img src="images/contacto.jpg" width="350" class="secciones" alt="contacto" />
-
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec gravida diam. Morbi euismod leo risus, vitae faucibus mi semper ut. Nullam dignissim congue imperdiet. Nullam egestas diam sit amet scelerisque faucibus. Nunc sodales urna id tempus ullamcorper. Etiam eu justo et ligula vulputate posuere vitae at dolor. Pellentesque pellentesque, urna at fermentum tempus, nulla odio lacinia leo, sit amet fringilla leo tortor vitae leo. Donec libero diam, scelerisque vitae tincidunt vitae, cursus at justo. Pellentesque eu ex consectetur, consequat erat quis, tempus metus. Praesent id felis sit amet nisl vestibulum iaculis. Phasellus euismod urna eros, eget consequat turpis sodales a.
-
-                    Suspendisse varius velit ut ligula mattis, eu varius sapien ullamcorper. In nec sagittis sapien. Morbi id mauris ipsum. Aliquam finibus ultricies ullamcorper. Vivamus elementum metus in nibh hendrerit commodo. In tincidunt semper accumsan. Proin nec varius libero, vel maximus neque. Aliquam erat volutpat. Pellentesque at dolor eget mi finibus ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur porta urna ut mauris dapibus, ut consectetur massa placerat. Nullam ut tellus dapibus, interdum nunc vel, consectetur nisl.
-
-                    Pellentesque dignissim orci sed scelerisque mollis. In hac habitasse platea dictumst. Donec id tellus feugiat, finibus libero vitae, eleifend purus. Aliquam molestie pellentesque arcu, a commodo mauris. Curabitur vitae felis vel risus vulputate fermentum. Vestibulum iaculis libero eu orci imperdiet euismod dignissim at quam. Maecenas molestie placerat consequat. Duis sed leo consequat, auctor dui quis, placerat neque. In eleifend, mi vel eleifend malesuada, est ipsum sagittis sem, nec maximus eros metus at nibh. Etiam et blandit elit. Fusce scelerisque velit ut turpis consectetur, quis consectetur justo ultricies. Praesent metus est, lacinia ut tristique id, porta varius est. Quisque sit amet massa a arcu porttitor mollis. Integer et libero sit amet urna congue tempus. Donec et arcu elit.
-
-                    Aenean arcu massa, posuere nec tellus eget, scelerisque gravida tellus. Sed elementum arcu ac ipsum luctus eleifend. Aliquam accumsan elit vel nisl egestas, vel fringilla nisl facilisis. In quis ultrices diam. Integer tortor velit, efficitur vel lectus ac, ultricies sollicitudin ante. Donec id pretium lorem. Proin at commodo tortor, non venenatis dolor. Morbi aliquam sagittis volutpat. Nulla hendrerit lorem sed metus efficitur, vel elementum elit sodales. Maecenas vehicula, lectus vitae venenatis hendrerit, tellus eros fringilla massa, eu condimentum mauris enim et nibh.
-
-                    Mauris purus lorem, ornare eget nunc ultrices, ultricies facilisis est. Nulla euismod finibus cursus. Mauris et ipsum quis velit dictum ultrices eu non ipsum. In ultrices fringilla dictum. Curabitur eget volutpat elit, porttitor pharetra nisi. Sed finibus magna nec mauris maximus, in ornare elit luctus. Aenean ut ipsum ac augue dignissim maximus. Donec felis dolor, porta id mauris quis, ultricies blandit turpis. Ut vitae mauris euismod, auctor mauris luctus, ultrices leo. Fusce non ex in libero mattis semper. Integer pharetra at urna pellentesque volutpat. Curabitur in posuere nisl. Sed varius ut magna vel congue. In hac habitasse platea dictumst. Suspendisse pretium pulvinar orci, a ultrices purus porttitor ac.
-                </p>
-            </section>
-
-
-        </main>
-
-
-
-        <footer>
-            <hr/>
-            Pagina creada por <a href="http://rasptiju.no-ip.org" target="_blank">Borja Garduño</a> &copy; 2016
-
-            <a href="#arriba" class="arriba">Ir arriba</a>
-
-            <ul class="spritesmios">
-                <li>
-                    <a class="twitter" rel="nofollow" href="http://twitter.com/" target="_blank" title="twitter"></a>
-                </li>
-
-                <li>
-                    <a class="facebook" rel="nofollow" href="http://www.facebook.com/" target="_blank" title="facebook"></a>
-                </li>
-            </ul>
-        </footer>
-    </body>
-</html>
+</svg>
